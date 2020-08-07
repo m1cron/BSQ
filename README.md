@@ -8,6 +8,8 @@ BEST EVER IN DA WORLD BSQ
 - stdin               : +
 - without static buf  : + (only 1 byte for stdin)
 - focking empty line  : +
+- flags for gcc       : -Wall -Wextra -Werror -O3
+- relink Makefile fix : +
 
 GRADE F0CKING 0 CxKA ZERO BLxAT bcz we fag0t$ (forgots) '\n' (empty line) after `map error\n`
 
