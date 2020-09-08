@@ -13,7 +13,7 @@
 - flags for gcc       : -Wall -Wextra -Werror -O3
 - relink Makefile fix : +
 
-GRADE F0CKING 0 CxKA ZERO BLxAT bcz we fag0t$ (forgots) '\n' (empty line) after `map error\n`
+GRADE 0, bcz we forgots '\n' (empty line) after `map error\n`
 
 ![Image alt](https://github.com/m1cron/BSQ/raw/master/screens/image.png)
 ![Image alt](https://github.com/m1cron/BSQ/raw/master/screens/valgrind_1k_memory.png)
